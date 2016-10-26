@@ -23,8 +23,8 @@ SELECT COUNT(*) FROM `customers` WHERE `creditLimit` > 20000;
 6. Write a PHP program that prints the following information to the terminal:
 The customer name, country, and sales rep name on one line per customer.
 Order the results by country first and customer name second.
-See assignment_3_solution_output.txt for what the output should look like.
-assignment_3.php contains most of the code you need to complete the assignment.
+See assignment_6_solution_output.txt for what the output should look like.
+assignment_6.php contains most of the code you need to complete the assignment.
 You will need to write the SQL query and write the output.
 You should use only 1 SQL query to the database.
 
@@ -34,7 +34,7 @@ The total number of points for the assignment is 90.
 
 Point breakdown for problem 6:
 10 points - 1 SQL query
-10 points - correct output format (see assignment_3_solution_output.txt)
+10 points - correct output format (see assignment_6_solution_output.txt)
  5 points - correct data from the customers table
  5 points - correct data from the employees table
  5 points - order by country first

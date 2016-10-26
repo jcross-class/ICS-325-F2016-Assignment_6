@@ -57,8 +57,8 @@ Files in this Repo
 * **example_sql_statements.sql** - Example SQL statements using the example database from mysqlsampledatabase.sql.
 * **php_pdo_mysql_example.php** - A simple example of how to use PHP, PDO, and MySQL.
 * **assignment_6_problems.txt** - Contains instructions on how to complete the assignment and how it is graded.
-* **assignment_6.php** - A script you need to modify to perform a SQL query and print the results to the terminal.  Referred to by assignment_3_problems.txt.
-* **assignment_6_solution_output.txt** - Your completed assignment_3.php output should look like this
+* **assignment_6.php** - A script you need to modify to perform a SQL query and print the results to the terminal.  Referred to by assignment_6_problems.txt.
+* **assignment_6_solution_output.txt** - Your completed assignment_6.php output should look like this
 
 How to Turn in the Assignment
 -----------------------------
